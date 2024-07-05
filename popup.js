@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         try {
-            const response = await fetch('http://localhost:5001/shorten', {
+            const response = await fetch('https://url-shortner-backend-xnt3.onrender.com/shorten', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

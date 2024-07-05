@@ -63,18 +63,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // function shareUrl(url) {
-    //     if (navigator.share) {
-    //         navigator.share({
-    //             title: 'Shortened URL',
-    //             url: url
-    //         }).then(() => {
-    //             console.log('Thanks for sharing!');
-    //         }).catch(console.error);
-    //     } else {
-    //         alert('Share feature is not supported in your browser.');
-    //     }
-    // }
 
     const shortUrl = getQueryParam('shortUrl');
     const qrCode = getQueryParam('qrCode');
