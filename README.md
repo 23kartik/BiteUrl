@@ -32,7 +32,6 @@ BiteURL is a simple and efficient URL shortener extension that allows you to sho
 
 
 ## Screenshots
-![Main Interface](https://github.com/23kartik/url_shortner_extension/assets/84660976/2fa6661d-26de-4a31-bfd5-ef2021ef9af6)
 
 ![Bulk URLs](https://github.com/23kartik/url_shortner_extension/assets/84660976/9a549ed8-4884-432e-b178-5507af96b0f6)
 
